@@ -1,0 +1,39 @@
+html {
+  background:url(https://www.hussle.com/blog/wp-content/uploads/2020/12/Gym-structure-1080x675.png);
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.calc {
+  background-color: #ffffffbe;
+  padding: 30px;
+  margin: auto;
+  max-width: 50%;
+  border-radius: 10px;
+}
+h1 {
+  color: aliceblue;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+h2 {
+  padding-bottom: 25px;
+  text-align: center;
+}
+.btn {
+  background-color: #504effde;
+  padding: 10px 20px 10px 20px;
+  border-radius: 10px;
+  font-size: 18px;
+  color: aliceblue;
+
+}
+
+label{
+  color: blue;
+  font-size:1.3em;
+}
+
+
